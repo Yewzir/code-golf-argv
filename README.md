@@ -1,4 +1,4 @@
-# Accessing command-line arguments in my local environment
+# Accessing arguments in my local environment
 
 <p align="justify">
   This repository serves as a helper for the holes on <a href="https://code.golf/">Code Golf</a> being executed with command-line arguments.
